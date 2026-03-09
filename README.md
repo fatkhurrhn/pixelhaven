@@ -1,16 +1,68 @@
-# React + Vite
+# 🌌 PixelHaven
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**PixelHaven** is a curated collection of **high-quality HD and live wallpapers** designed for both **desktop and mobile devices**.  
+All wallpapers in this repository are free to download and ready to use.
 
-Currently, two official plugins are available:
+Whether you're looking to personalize your workspace or give your phone a fresh look, PixelHaven provides a variety of beautiful wallpapers in one place.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🖼 High-resolution **HD wallpapers**
+- 🎞 **Live wallpapers** for dynamic backgrounds
+- 📱 Compatible with **mobile devices**
+- 💻 Perfect for **desktop setups**
+- 📂 Organized by categories
+- ⬇ Free and easy to download
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Categories
+
+PixelHaven wallpapers are organized into several categories such as:
+
+- 🌄 **Nature**
+- 🌃 **City & Night**
+- 🎮 **Gaming**
+- 🚀 **Space**
+- 🎨 **Abstract**
+- 🌸 **Minimalist**
+- 🌊 **Aesthetic**
+- 🎞 **Live Wallpapers**
+
+
+---
+
+## 🚀 How to Use
+
+1. Browse the categories in this repository.
+2. Choose the wallpaper you like.
+3. Download the file.
+4. Apply it as your **desktop or mobile wallpaper**.
+
+---
+
+## 💻 Supported Devices
+
+- Desktop (Windows, macOS, Linux)
+- Android
+- iOS *(depending on live wallpaper support)*
+
+---
+
+## 🤝 Contributing
+
+Want to contribute wallpapers to PixelHaven?
+
+1. Fork this repository
+2. Add wallpapers in the appropriate folder
+3. Submit a Pull Request
+
+Please ensure that uploaded wallpapers are **high resolution and properly categorized**.
+
+---
+
+## ⭐ Support
+
+If you like this project, please consider giving it a **star ⭐ on GitHub**.
